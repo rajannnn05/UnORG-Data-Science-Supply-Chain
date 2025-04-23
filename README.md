@@ -7,7 +7,7 @@ UNORG is a fast-growing B2B grocery delivery platform aiming to revolutionize th
 
 The goal is to build a predictive system to:
 
-Order Identification: Predict the probability of each customer placing an order daily for the next 14 days.
+<u>Order Identification:</u> Predict the probability of each customer placing an order daily for the next 14 days.
 
 Order Composition & Quantity: Forecast the SKUs and quantities each customer is likely to order.
 
