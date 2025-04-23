@@ -7,22 +7,22 @@ UNORG is a fast-growing B2B grocery delivery platform aiming to revolutionize th
 
 The goal is to build a predictive system to:
 
-<u>Order Identification:</u> Predict the probability of each customer placing an order daily for the next 14 days.
+<u>Order Identification:</u>  Predict the probability of each customer placing an order daily for the next 14 days.
 
-Order Composition & Quantity: Forecast the SKUs and quantities each customer is likely to order.
+Order Composition & Quantity:  Forecast the SKUs and quantities each customer is likely to order.
 
-Inventory Planning: Aggregate demand to generate an optimized inventory plan for all SKUs over the next two weeks.
+Inventory Planning:  Aggregate demand to generate an optimized inventory plan for all SKUs over the next two weeks.
 
 
 
 🛠️ **Key Deliverables**
 
 
-Customer Order Prediction Model: Classifies the daily order likelihood per customer.
+Customer Order Prediction Model:  Classifies the daily order likelihood per customer.
 
-SKU-Level Demand Forecasting: Predicts what items and how much of each item customers will order.
+SKU-Level Demand Forecasting:  Predicts what items and how much of each item customers will order.
 
-Inventory Planning Engine: Provides a consolidated inventory stocking plan using the demand forecast.
+Inventory Planning Engine:  Provides a consolidated inventory stocking plan using the demand forecast.
 
 
 
